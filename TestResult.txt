@@ -1,0 +1,822 @@
+CMMAC: F8A097EAA488 2017-06-06 10:13:43.856-04  threadId:162  begin********************
+CMMAC: F8A097EF5929 2017-06-06 10:13:43.859-04  threadId:161  begin********************
+CMMAC: F8A097EF5B40 2017-06-06 10:13:43.859-04  threadId:163  begin********************
+CMMAC: F8A097EAA663 2017-06-06 10:13:43.860-04  threadId:165  begin********************
+CMMAC: F8A097EF5852 2017-06-06 10:13:43.860-04  threadId:166  begin********************
+CMMAC: F8A097EAA4BA 2017-06-06 10:13:43.861-04  threadId:164  begin********************
+CMMAC: F8A097EF5884 2017-06-06 10:13:43.862-04  threadId:169  begin********************
+CMMAC: F8A097EF5B09 2017-06-06 10:13:43.862-04  threadId:168  begin********************
+CMMAC: F8A097EAA59B 2017-06-06 10:13:43.862-04  threadId:167  begin********************
+CMMAC: F8A097EF5965 2017-06-06 10:13:43.862-04  threadId:170  begin********************
+CMMAC: F8A097EF5B40 2017-06-06 10:13:44.223-04  threadId:163 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 10:13:44.223-04  threadId:163 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 10:13:44.223-04  threadId:163 Assertion :snr :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 10:13:44.223-04  threadId:163 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 10:13:44.228-04  threadId:163  end********************
+CMMAC: F8A097EF5B40 2017-06-06 10:13:44.230-04  threadId:163  begin********************
+CMMAC: F8A097EAA4BA 2017-06-06 10:13:44.234-04  threadId:164 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 10:13:44.234-04  threadId:164 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 10:13:44.234-04  threadId:164 Assertion :snr :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 10:13:44.234-04  threadId:164 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-06 10:13:44.239-04  threadId:162 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA488 2017-06-06 10:13:44.239-04  threadId:162 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA488 2017-06-06 10:13:44.239-04  threadId:162 Assertion :snr :: VALID
+CMMAC: F8A097EAA488 2017-06-06 10:13:44.239-04  threadId:162 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-06 10:13:44.246-04  threadId:162  end********************
+CMMAC: F8A097EAA663 2017-06-06 10:13:44.247-04  threadId:165 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 10:13:44.248-04  threadId:167 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA663 2017-06-06 10:13:44.247-04  threadId:165 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA663 2017-06-06 10:13:44.247-04  threadId:165 Assertion :snr :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 10:13:44.248-04  threadId:167 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA663 2017-06-06 10:13:44.247-04  threadId:165 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5884 2017-06-06 10:13:44.250-04  threadId:169 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 10:13:44.248-04  threadId:167 Assertion :snr :: VALID
+CMMAC: F8A097EAA663 2017-06-06 10:13:44.253-04  threadId:165  end********************
+CMMAC: F8A097EF5884 2017-06-06 10:13:44.250-04  threadId:169 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 10:13:44.248-04  threadId:167 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5884 2017-06-06 10:13:44.250-04  threadId:169 Assertion :snr :: VALID
+CMMAC: F8A097EF5852 2017-06-06 10:13:44.253-04  threadId:166 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 10:13:44.255-04  threadId:167  end********************
+CMMAC: F8A097EAA663 2017-06-06 10:13:44.255-04  threadId:165  begin********************
+CMMAC: F8A097EF5884 2017-06-06 10:13:44.250-04  threadId:169 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5852 2017-06-06 10:13:44.253-04  threadId:166 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 10:13:44.241-04  threadId:164  end********************
+CMMAC: F8A097EF5884 2017-06-06 10:13:44.257-04  threadId:169  end********************
+CMMAC: F8A097EF5852 2017-06-06 10:13:44.253-04  threadId:166 Assertion :snr :: VALID
+CMMAC: F8A097EF5884 2017-06-06 10:13:44.260-04  threadId:169  begin********************
+CMMAC: F8A097EAA59B 2017-06-06 10:13:44.258-04  threadId:167  begin********************
+CMMAC: F8A097EF5852 2017-06-06 10:13:44.253-04  threadId:166 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5852 2017-06-06 10:13:44.262-04  threadId:166  end********************
+CMMAC: F8A097EAA4BA 2017-06-06 10:13:44.265-04  threadId:164  begin********************
+CMMAC: F8A097EF5852 2017-06-06 10:13:44.266-04  threadId:166  begin********************
+CMMAC: F8A097EF5929 2017-06-06 10:13:44.270-04  threadId:161 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA488 2017-06-06 10:13:44.272-04  threadId:162  begin********************
+CMMAC: F8A097EF5965 2017-06-06 10:13:44.242-04  threadId:170 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5929 2017-06-06 10:13:44.270-04  threadId:161 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5929 2017-06-06 10:13:44.270-04  threadId:161 Assertion :snr :: VALID
+CMMAC: F8A097EF5929 2017-06-06 10:13:44.270-04  threadId:161 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5965 2017-06-06 10:13:44.242-04  threadId:170 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5965 2017-06-06 10:13:44.242-04  threadId:170 Assertion :snr :: VALID
+CMMAC: F8A097EF5929 2017-06-06 10:13:44.278-04  threadId:161  end********************
+CMMAC: F8A097EF5965 2017-06-06 10:13:44.242-04  threadId:170 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 10:13:44.276-04  threadId:168 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5929 2017-06-06 10:13:44.281-04  threadId:161  begin********************
+CMMAC: F8A097EF5B09 2017-06-06 10:13:44.276-04  threadId:168 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 10:13:44.276-04  threadId:168 Assertion :snr :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 10:13:44.276-04  threadId:168 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5965 2017-06-06 10:13:44.282-04  threadId:170  end********************
+CMMAC: F8A097EF5B09 2017-06-06 10:13:44.286-04  threadId:168  end********************
+CMMAC: F8A097EF5965 2017-06-06 10:13:44.287-04  threadId:170  begin********************
+CMMAC: F8A097EF5B09 2017-06-06 10:13:44.288-04  threadId:168  begin********************
+CMMAC: F8A097EAA488 2017-06-06 10:13:49.986-04  threadId:162 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA488 2017-06-06 10:13:49.986-04  threadId:162 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA488 2017-06-06 10:13:49.986-04  threadId:162 Assertion :snr :: VALID
+CMMAC: F8A097EAA488 2017-06-06 10:13:49.986-04  threadId:162 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-06 10:13:49.989-04  threadId:162  end********************
+CMMAC: F8A097EAA488 2017-06-06 10:13:49.990-04  threadId:162  begin********************
+CMMAC: F8A097EF5884 2017-06-06 10:13:50.992-04  threadId:169 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5884 2017-06-06 10:13:50.992-04  threadId:169 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5884 2017-06-06 10:13:50.992-04  threadId:169 Assertion :snr :: VALID
+CMMAC: F8A097EF5884 2017-06-06 10:13:50.992-04  threadId:169 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5884 2017-06-06 10:13:50.995-04  threadId:169  end********************
+CMMAC: F8A097EF5884 2017-06-06 10:13:50.996-04  threadId:169  begin********************
+CMMAC: F8A097EF5929 2017-06-06 10:13:52.950-04  threadId:161 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5929 2017-06-06 10:13:52.950-04  threadId:161 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5929 2017-06-06 10:13:52.950-04  threadId:161 Assertion :snr :: VALID
+CMMAC: F8A097EF5929 2017-06-06 10:13:52.950-04  threadId:161 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5929 2017-06-06 10:13:52.953-04  threadId:161  end********************
+CMMAC: F8A097EF5929 2017-06-06 10:13:52.954-04  threadId:161  begin********************
+CMMAC: F8A097EF5B09 2017-06-06 10:13:54.964-04  threadId:168 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 10:13:54.964-04  threadId:168 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 10:13:54.964-04  threadId:168 Assertion :snr :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 10:13:54.964-04  threadId:168 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 10:13:54.966-04  threadId:168  end********************
+CMMAC: F8A097EAA663 2017-06-06 10:13:55.095-04  threadId:165 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA663 2017-06-06 10:13:55.095-04  threadId:165 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA663 2017-06-06 10:13:55.095-04  threadId:165 Assertion :snr :: VALID
+CMMAC: F8A097EAA663 2017-06-06 10:13:55.095-04  threadId:165 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA663 2017-06-06 10:13:55.099-04  threadId:165  end********************
+CMMAC: F8A097EF5965 2017-06-06 10:13:55.948-04  threadId:170 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5965 2017-06-06 10:13:55.948-04  threadId:170 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5965 2017-06-06 10:13:55.948-04  threadId:170 Assertion :snr :: VALID
+CMMAC: F8A097EF5965 2017-06-06 10:13:55.948-04  threadId:170 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5965 2017-06-06 10:13:55.951-04  threadId:170  end********************
+CMMAC: F8A097EF5884 2017-06-06 10:13:56.992-04  threadId:169 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5884 2017-06-06 10:13:56.992-04  threadId:169 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5884 2017-06-06 10:13:56.992-04  threadId:169 Assertion :snr :: VALID
+CMMAC: F8A097EF5884 2017-06-06 10:13:56.992-04  threadId:169 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5884 2017-06-06 10:13:56.997-04  threadId:169  end********************
+CMMAC: F8A097EF5852 2017-06-06 10:13:58.011-04  threadId:166 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5852 2017-06-06 10:13:58.011-04  threadId:166 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5852 2017-06-06 10:13:58.011-04  threadId:166 Assertion :snr :: VALID
+CMMAC: F8A097EF5852 2017-06-06 10:13:58.011-04  threadId:166 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5852 2017-06-06 10:13:58.015-04  threadId:166  end********************
+CMMAC: F8A097EAA4BA 2017-06-06 10:14:01.089-04  threadId:164 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 10:14:01.089-04  threadId:164 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 10:14:01.089-04  threadId:164 Assertion :snr :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 10:14:01.089-04  threadId:164 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 10:14:01.094-04  threadId:164  end********************
+CMMAC: F8A097EF5B40 2017-06-06 10:14:01.137-04  threadId:163 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 10:14:01.137-04  threadId:163 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 10:14:01.137-04  threadId:163 Assertion :snr :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 10:14:01.137-04  threadId:163 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 10:14:01.140-04  threadId:163  end********************
+CMMAC: F8A097EAA488 2017-06-06 10:14:01.975-04  threadId:162 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA488 2017-06-06 10:14:01.975-04  threadId:162 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA488 2017-06-06 10:14:01.975-04  threadId:162 Assertion :snr :: VALID
+CMMAC: F8A097EAA488 2017-06-06 10:14:01.975-04  threadId:162 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-06 10:14:01.977-04  threadId:162  end********************
+CMMAC: F8A097EAA59B 2017-06-06 10:14:02.007-04  threadId:167 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 10:14:02.007-04  threadId:167 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 10:14:02.007-04  threadId:167 Assertion :snr :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 10:14:02.007-04  threadId:167 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 10:14:02.010-04  threadId:167  end********************
+CMMAC: F8A097EF5929 2017-06-06 10:14:08.954-04  threadId:161 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5929 2017-06-06 10:14:08.954-04  threadId:161 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5929 2017-06-06 10:14:08.954-04  threadId:161 Assertion :snr :: VALID
+CMMAC: F8A097EF5929 2017-06-06 10:14:08.954-04  threadId:161 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5929 2017-06-06 10:14:08.960-04  threadId:161  end********************
+CMMAC: F8A097EF5884 2017-06-06 11:04:06.426-04  threadId:328  begin********************
+CMMAC: F8A097EAA4BA 2017-06-06 11:04:06.426-04  threadId:332  begin********************
+CMMAC: F8A097EF5965 2017-06-06 11:04:06.426-04  threadId:331  begin********************
+CMMAC: F8A097EAA488 2017-06-06 11:04:06.426-04  threadId:325  begin********************
+CMMAC: F8A097EAA663 2017-06-06 11:04:06.426-04  threadId:324  begin********************
+CMMAC: F8A097EAA59B 2017-06-06 11:04:06.426-04  threadId:329  begin********************
+CMMAC: F8A097EF5B09 2017-06-06 11:04:06.426-04  threadId:327  begin********************
+CMMAC: F8A097EF5929 2017-06-06 11:04:06.426-04  threadId:333  begin********************
+CMMAC: F8A097EF5852 2017-06-06 11:04:06.426-04  threadId:326  begin********************
+CMMAC: F8A097EF5B40 2017-06-06 11:04:06.426-04  threadId:330  begin********************
+CMMAC: F8A097EF5B09 2017-06-06 11:04:06.689-04  threadId:327 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5884 2017-06-06 11:04:06.685-04  threadId:328 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5929 2017-06-06 11:04:06.666-04  threadId:333 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 11:04:06.711-04  threadId:329 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA488 2017-06-06 11:04:06.640-04  threadId:325 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5965 2017-06-06 11:04:06.669-04  threadId:331 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 11:04:06.724-04  threadId:332 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5884 2017-06-06 11:04:06.685-04  threadId:328 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 11:04:06.689-04  threadId:327 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5929 2017-06-06 11:04:06.666-04  threadId:333 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5965 2017-06-06 11:04:06.669-04  threadId:331 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 11:04:06.724-04  threadId:332 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA488 2017-06-06 11:04:06.640-04  threadId:325 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 11:04:06.711-04  threadId:329 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 11:04:06.689-04  threadId:327 Assertion :snr :: VALID
+CMMAC: F8A097EF5884 2017-06-06 11:04:06.685-04  threadId:328 Assertion :snr :: VALID
+CMMAC: F8A097EF5965 2017-06-06 11:04:06.669-04  threadId:331 Assertion :snr :: VALID
+CMMAC: F8A097EF5929 2017-06-06 11:04:06.666-04  threadId:333 Assertion :snr :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 11:04:06.724-04  threadId:332 Assertion :snr :: VALID
+CMMAC: F8A097EAA488 2017-06-06 11:04:06.640-04  threadId:325 Assertion :snr :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 11:04:06.711-04  threadId:329 Assertion :snr :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 11:04:06.689-04  threadId:327 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5884 2017-06-06 11:04:06.685-04  threadId:328 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 11:04:06.741-04  threadId:327  end********************
+CMMAC: F8A097EF5884 2017-06-06 11:04:06.742-04  threadId:328  end********************
+CMMAC: F8A097EAA4BA 2017-06-06 11:04:06.724-04  threadId:332 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-06 11:04:06.640-04  threadId:325 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5929 2017-06-06 11:04:06.666-04  threadId:333 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 11:04:06.743-04  threadId:327  begin********************
+CMMAC: F8A097EAA4BA 2017-06-06 11:04:06.743-04  threadId:332  end********************
+CMMAC: F8A097EF5884 2017-06-06 11:04:06.745-04  threadId:328  begin********************
+CMMAC: F8A097EF5965 2017-06-06 11:04:06.669-04  threadId:331 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-06 11:04:06.745-04  threadId:325  end********************
+CMMAC: F8A097EAA59B 2017-06-06 11:04:06.711-04  threadId:329 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-06 11:04:06.751-04  threadId:325  begin********************
+CMMAC: F8A097EF5965 2017-06-06 11:04:06.748-04  threadId:331  end********************
+CMMAC: F8A097EF5929 2017-06-06 11:04:06.746-04  threadId:333  end********************
+CMMAC: F8A097EAA4BA 2017-06-06 11:04:06.747-04  threadId:332  begin********************
+CMMAC: F8A097EAA59B 2017-06-06 11:04:06.755-04  threadId:329  end********************
+CMMAC: F8A097EF5965 2017-06-06 11:04:06.757-04  threadId:331  begin********************
+CMMAC: F8A097EF5929 2017-06-06 11:04:06.758-04  threadId:333  begin********************
+CMMAC: F8A097EAA59B 2017-06-06 11:04:06.761-04  threadId:329  begin********************
+CMMAC: F8A097EF5B40 2017-06-06 11:04:06.783-04  threadId:330 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 11:04:06.783-04  threadId:330 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 11:04:06.783-04  threadId:330 Assertion :snr :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 11:04:06.783-04  threadId:330 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 11:04:06.787-04  threadId:330  end********************
+CMMAC: F8A097EF5B40 2017-06-06 11:04:06.789-04  threadId:330  begin********************
+CMMAC: F8A097EF5852 2017-06-06 11:04:06.788-04  threadId:326 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5852 2017-06-06 11:04:06.788-04  threadId:326 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5852 2017-06-06 11:04:06.788-04  threadId:326 Assertion :snr :: VALID
+CMMAC: F8A097EAA663 2017-06-06 11:04:06.790-04  threadId:324 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA663 2017-06-06 11:04:06.790-04  threadId:324 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5852 2017-06-06 11:04:06.788-04  threadId:326 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA663 2017-06-06 11:04:06.790-04  threadId:324 Assertion :snr :: VALID
+CMMAC: F8A097EAA663 2017-06-06 11:04:06.790-04  threadId:324 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA663 2017-06-06 11:04:06.796-04  threadId:324  end********************
+CMMAC: F8A097EAA663 2017-06-06 11:04:06.798-04  threadId:324  begin********************
+CMMAC: F8A097EF5852 2017-06-06 11:04:06.799-04  threadId:326  end********************
+CMMAC: F8A097EF5852 2017-06-06 11:04:06.801-04  threadId:326  begin********************
+CMMAC: F8A097EAA663 2017-06-06 11:04:14.522-04  threadId:324 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA663 2017-06-06 11:04:14.522-04  threadId:324 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA663 2017-06-06 11:04:14.522-04  threadId:324 Assertion :snr :: VALID
+CMMAC: F8A097EAA663 2017-06-06 11:04:14.522-04  threadId:324 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA663 2017-06-06 11:04:14.525-04  threadId:324  end********************
+CMMAC: F8A097EAA663 2017-06-06 11:04:14.526-04  threadId:324  begin********************
+CMMAC: F8A097EF5929 2017-06-06 11:04:14.527-04  threadId:333 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5929 2017-06-06 11:04:14.527-04  threadId:333 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5929 2017-06-06 11:04:14.527-04  threadId:333 Assertion :snr :: VALID
+CMMAC: F8A097EF5929 2017-06-06 11:04:14.527-04  threadId:333 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5929 2017-06-06 11:04:14.530-04  threadId:333  end********************
+CMMAC: F8A097EF5929 2017-06-06 11:04:14.531-04  threadId:333  begin********************
+CMMAC: F8A097EF5B40 2017-06-06 11:04:15.535-04  threadId:330 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 11:04:15.535-04  threadId:330 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 11:04:15.535-04  threadId:330 Assertion :snr :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 11:04:15.535-04  threadId:330 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-06 11:04:15.537-04  threadId:325 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 11:04:15.538-04  threadId:330  end********************
+CMMAC: F8A097EAA488 2017-06-06 11:04:15.537-04  threadId:325 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA488 2017-06-06 11:04:15.537-04  threadId:325 Assertion :snr :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 11:04:15.539-04  threadId:330  begin********************
+CMMAC: F8A097EAA488 2017-06-06 11:04:15.537-04  threadId:325 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-06 11:04:15.540-04  threadId:325  end********************
+CMMAC: F8A097EAA488 2017-06-06 11:04:15.541-04  threadId:325  begin********************
+CMMAC: F8A097EAA4BA 2017-06-06 11:04:18.524-04  threadId:332 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 11:04:18.524-04  threadId:332 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 11:04:18.524-04  threadId:332 Assertion :snr :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 11:04:18.524-04  threadId:332 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 11:04:18.528-04  threadId:332  end********************
+CMMAC: F8A097EF5884 2017-06-06 11:04:19.541-04  threadId:328 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5929 2017-06-06 11:04:19.542-04  threadId:333 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5884 2017-06-06 11:04:19.541-04  threadId:328 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5929 2017-06-06 11:04:19.542-04  threadId:333 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5884 2017-06-06 11:04:19.541-04  threadId:328 Assertion :snr :: VALID
+CMMAC: F8A097EF5929 2017-06-06 11:04:19.542-04  threadId:333 Assertion :snr :: VALID
+CMMAC: F8A097EF5884 2017-06-06 11:04:19.541-04  threadId:328 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5929 2017-06-06 11:04:19.542-04  threadId:333 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5884 2017-06-06 11:04:19.545-04  threadId:328  end********************
+CMMAC: F8A097EF5929 2017-06-06 11:04:19.545-04  threadId:333  end********************
+CMMAC: F8A097EF5852 2017-06-06 11:04:19.548-04  threadId:326 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5852 2017-06-06 11:04:19.548-04  threadId:326 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5852 2017-06-06 11:04:19.548-04  threadId:326 Assertion :snr :: VALID
+CMMAC: F8A097EF5852 2017-06-06 11:04:19.548-04  threadId:326 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5852 2017-06-06 11:04:19.553-04  threadId:326  end********************
+CMMAC: F8A097EF5965 2017-06-06 11:04:20.523-04  threadId:331 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5965 2017-06-06 11:04:20.523-04  threadId:331 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5965 2017-06-06 11:04:20.523-04  threadId:331 Assertion :snr :: VALID
+CMMAC: F8A097EF5965 2017-06-06 11:04:20.523-04  threadId:331 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5965 2017-06-06 11:04:20.526-04  threadId:331  end********************
+CMMAC: F8A097EAA59B 2017-06-06 11:04:20.528-04  threadId:329 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 11:04:20.528-04  threadId:329 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 11:04:20.528-04  threadId:329 Assertion :snr :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 11:04:20.528-04  threadId:329 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 11:04:20.531-04  threadId:329  end********************
+CMMAC: F8A097EF5B09 2017-06-06 11:04:25.529-04  threadId:327 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 11:04:25.529-04  threadId:327 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 11:04:25.529-04  threadId:327 Assertion :snr :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 11:04:25.529-04  threadId:327 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 11:04:25.532-04  threadId:327  end********************
+CMMAC: F8A097EAA663 2017-06-06 11:04:26.529-04  threadId:324 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA663 2017-06-06 11:04:26.529-04  threadId:324 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA663 2017-06-06 11:04:26.529-04  threadId:324 Assertion :snr :: VALID
+CMMAC: F8A097EAA663 2017-06-06 11:04:26.529-04  threadId:324 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA663 2017-06-06 11:04:26.535-04  threadId:324  end********************
+CMMAC: F8A097EF5B40 2017-06-06 11:04:27.529-04  threadId:330 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 11:04:27.529-04  threadId:330 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 11:04:27.529-04  threadId:330 Assertion :snr :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 11:04:27.529-04  threadId:330 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 11:04:27.534-04  threadId:330  end********************
+CMMAC: F8A097EAA488 2017-06-06 11:04:32.521-04  threadId:325 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA488 2017-06-06 11:04:32.521-04  threadId:325 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA488 2017-06-06 11:04:32.521-04  threadId:325 Assertion :snr :: VALID
+CMMAC: F8A097EAA488 2017-06-06 11:04:32.521-04  threadId:325 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-06 11:04:32.524-04  threadId:325  end********************
+CMMAC: F8A097EF5965 2017-06-06 12:08:42.451-04  threadId:233  begin********************
+CMMAC: F8A097EF5B09 2017-06-06 12:08:42.451-04  threadId:216  begin********************
+CMMAC: null 2017-06-06 12:08:42.451-04  threadId:232  begin********************
+CMMAC: F8A097EAA488 2017-06-06 12:08:42.451-04  threadId:211  begin********************
+CMMAC: F8A097EF5852 2017-06-06 12:08:42.451-04  threadId:230  begin********************
+CMMAC: F8A097EAA663 2017-06-06 12:08:42.451-04  threadId:231  begin********************
+CMMAC: F8A097EAA59B 2017-06-06 12:08:42.451-04  threadId:197  begin********************
+CMMAC: F8A097EF5929 2017-06-06 12:08:42.451-04  threadId:193  begin********************
+CMMAC: F8A097EAA4BA 2017-06-06 12:08:42.451-04  threadId:201  begin********************
+CMMAC: F8A097EF5884 2017-06-06 12:08:42.451-04  threadId:161  begin********************
+CMMAC: F8A097EF5B40 2017-06-06 12:08:42.451-04  threadId:228  begin********************
+CMMAC: null 2017-06-06 12:08:42.624-04  threadId:232 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: null 2017-06-06 12:08:42.624-04  threadId:232 Assertion :rx_power :: VALID
+CMMAC: null 2017-06-06 12:08:42.624-04  threadId:232 Assertion :snr :: VALID
+CMMAC: null 2017-06-06 12:08:42.624-04  threadId:232 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: null 2017-06-06 12:08:42.655-04  threadId:232  end********************
+CMMAC: null 2017-06-06 12:08:42.658-04  threadId:232  begin********************
+CMMAC: F8A097EF5B09 2017-06-06 12:08:42.698-04  threadId:216 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 12:08:42.698-04  threadId:216 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 12:08:42.698-04  threadId:216 Assertion :snr :: VALID
+CMMAC: F8A097EAA488 2017-06-06 12:08:42.702-04  threadId:211 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 12:08:42.698-04  threadId:216 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-06 12:08:42.702-04  threadId:211 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA488 2017-06-06 12:08:42.702-04  threadId:211 Assertion :snr :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 12:08:42.708-04  threadId:216  end********************
+CMMAC: F8A097EAA488 2017-06-06 12:08:42.702-04  threadId:211 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-06 12:08:42.711-04  threadId:211  end********************
+CMMAC: F8A097EF5B09 2017-06-06 12:08:42.711-04  threadId:216  begin********************
+CMMAC: F8A097EAA488 2017-06-06 12:08:42.714-04  threadId:211  begin********************
+CMMAC: F8A097EF5929 2017-06-06 12:08:42.722-04  threadId:193 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA663 2017-06-06 12:08:42.721-04  threadId:231 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 12:08:42.728-04  threadId:197 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5929 2017-06-06 12:08:42.722-04  threadId:193 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 12:08:42.728-04  threadId:197 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5929 2017-06-06 12:08:42.722-04  threadId:193 Assertion :snr :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 12:08:42.728-04  threadId:197 Assertion :snr :: VALID
+CMMAC: F8A097EF5929 2017-06-06 12:08:42.722-04  threadId:193 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5929 2017-06-06 12:08:42.733-04  threadId:193  end********************
+CMMAC: F8A097EAA59B 2017-06-06 12:08:42.728-04  threadId:197 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA663 2017-06-06 12:08:42.721-04  threadId:231 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA663 2017-06-06 12:08:42.721-04  threadId:231 Assertion :snr :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 12:08:42.736-04  threadId:197  end********************
+CMMAC: F8A097EAA663 2017-06-06 12:08:42.721-04  threadId:231 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5929 2017-06-06 12:08:42.738-04  threadId:193  begin********************
+CMMAC: F8A097EAA663 2017-06-06 12:08:42.739-04  threadId:231  end********************
+CMMAC: F8A097EAA59B 2017-06-06 12:08:42.740-04  threadId:197  begin********************
+CMMAC: F8A097EF5B40 2017-06-06 12:08:42.739-04  threadId:228 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA663 2017-06-06 12:08:42.742-04  threadId:231  begin********************
+CMMAC: F8A097EF5B40 2017-06-06 12:08:42.739-04  threadId:228 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 12:08:42.739-04  threadId:228 Assertion :snr :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 12:08:42.739-04  threadId:228 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 12:08:42.745-04  threadId:201 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 12:08:42.746-04  threadId:228  end********************
+CMMAC: F8A097EAA4BA 2017-06-06 12:08:42.745-04  threadId:201 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 12:08:42.745-04  threadId:201 Assertion :snr :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 12:08:42.745-04  threadId:201 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 12:08:42.749-04  threadId:228  begin********************
+CMMAC: F8A097EAA4BA 2017-06-06 12:08:42.749-04  threadId:201  end********************
+CMMAC: F8A097EF5852 2017-06-06 12:08:42.749-04  threadId:230 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5884 2017-06-06 12:08:42.749-04  threadId:161 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 12:08:42.752-04  threadId:201  begin********************
+CMMAC: F8A097EF5852 2017-06-06 12:08:42.749-04  threadId:230 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5884 2017-06-06 12:08:42.749-04  threadId:161 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5884 2017-06-06 12:08:42.749-04  threadId:161 Assertion :snr :: VALID
+CMMAC: F8A097EF5852 2017-06-06 12:08:42.749-04  threadId:230 Assertion :snr :: VALID
+CMMAC: F8A097EF5884 2017-06-06 12:08:42.749-04  threadId:161 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5852 2017-06-06 12:08:42.749-04  threadId:230 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5884 2017-06-06 12:08:42.756-04  threadId:161  end********************
+CMMAC: F8A097EF5852 2017-06-06 12:08:42.756-04  threadId:230  end********************
+CMMAC: F8A097EF5884 2017-06-06 12:08:42.758-04  threadId:161  begin********************
+CMMAC: F8A097EF5852 2017-06-06 12:08:42.758-04  threadId:230  begin********************
+CMMAC: F8A097EF5884 2017-06-06 12:08:42.793-04  threadId:161 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5884 2017-06-06 12:08:42.793-04  threadId:161 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5884 2017-06-06 12:08:42.793-04  threadId:161 Assertion :snr :: VALID
+CMMAC: F8A097EF5884 2017-06-06 12:08:42.793-04  threadId:161 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5884 2017-06-06 12:08:42.796-04  threadId:161  end********************
+CMMAC: F8A097EF5884 2017-06-06 12:08:42.797-04  threadId:161  begin********************
+CMMAC: F8A097EAA4BA 2017-06-06 12:08:50.533-04  threadId:201 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 12:08:50.533-04  threadId:201 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 12:08:50.533-04  threadId:201 Assertion :snr :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 12:08:50.533-04  threadId:201 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 12:08:50.538-04  threadId:201  end********************
+CMMAC: F8A097EAA4BA 2017-06-06 12:08:50.539-04  threadId:201  begin********************
+CMMAC: null 2017-06-06 12:08:50.566-04  threadId:232 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: null 2017-06-06 12:08:50.566-04  threadId:232 Assertion :rx_power :: VALID
+CMMAC: null 2017-06-06 12:08:50.566-04  threadId:232 Assertion :snr :: VALID
+CMMAC: null 2017-06-06 12:08:50.566-04  threadId:232 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: null 2017-06-06 12:08:50.569-04  threadId:232  end********************
+CMMAC: null 2017-06-06 12:08:50.570-04  threadId:232  begin********************
+CMMAC: F8A097EF5929 2017-06-06 12:08:52.566-04  threadId:193 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5929 2017-06-06 12:08:52.566-04  threadId:193 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5929 2017-06-06 12:08:52.566-04  threadId:193 Assertion :snr :: VALID
+CMMAC: F8A097EF5929 2017-06-06 12:08:52.566-04  threadId:193 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5929 2017-06-06 12:08:52.569-04  threadId:193  end********************
+CMMAC: F8A097EAA59B 2017-06-06 12:08:52.573-04  threadId:197 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 12:08:52.573-04  threadId:197 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 12:08:52.573-04  threadId:197 Assertion :snr :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 12:08:52.573-04  threadId:197 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 12:08:52.576-04  threadId:197  end********************
+CMMAC: F8A097EF5B40 2017-06-06 12:08:53.544-04  threadId:228 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 12:08:53.544-04  threadId:228 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 12:08:53.544-04  threadId:228 Assertion :snr :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 12:08:53.544-04  threadId:228 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 12:08:53.582-04  threadId:228  end********************
+CMMAC: F8A097EAA663 2017-06-06 12:08:54.546-04  threadId:231 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA663 2017-06-06 12:08:54.546-04  threadId:231 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA663 2017-06-06 12:08:54.546-04  threadId:231 Assertion :snr :: VALID
+CMMAC: F8A097EAA663 2017-06-06 12:08:54.546-04  threadId:231 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA663 2017-06-06 12:08:54.549-04  threadId:231  end********************
+CMMAC: F8A097EF5852 2017-06-06 12:08:55.532-04  threadId:230 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5852 2017-06-06 12:08:55.532-04  threadId:230 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5852 2017-06-06 12:08:55.532-04  threadId:230 Assertion :snr :: VALID
+CMMAC: F8A097EF5852 2017-06-06 12:08:55.532-04  threadId:230 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5852 2017-06-06 12:08:55.535-04  threadId:230  end********************
+CMMAC: F8A097EF5965 2017-06-06 12:08:55.550-04  threadId:233 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5965 2017-06-06 12:08:55.550-04  threadId:233 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5965 2017-06-06 12:08:55.550-04  threadId:233 Assertion :snr :: VALID
+CMMAC: F8A097EF5965 2017-06-06 12:08:55.550-04  threadId:233 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5965 2017-06-06 12:08:55.553-04  threadId:233  end********************
+CMMAC: F8A097EF5884 2017-06-06 12:08:55.814-04  threadId:161 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5884 2017-06-06 12:08:55.814-04  threadId:161 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5884 2017-06-06 12:08:55.814-04  threadId:161 Assertion :snr :: VALID
+CMMAC: F8A097EF5884 2017-06-06 12:08:55.814-04  threadId:161 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5884 2017-06-06 12:08:55.821-04  threadId:161  end********************
+CMMAC: F8A097EAA488 2017-06-06 12:08:57.606-04  threadId:211 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA488 2017-06-06 12:08:57.606-04  threadId:211 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA488 2017-06-06 12:08:57.606-04  threadId:211 Assertion :snr :: VALID
+CMMAC: F8A097EAA488 2017-06-06 12:08:57.606-04  threadId:211 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-06 12:08:57.612-04  threadId:211  end********************
+CMMAC: null 2017-06-06 12:08:58.581-04  threadId:232 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: null 2017-06-06 12:08:58.581-04  threadId:232 Assertion :rx_power :: VALID
+CMMAC: null 2017-06-06 12:08:58.581-04  threadId:232 Assertion :snr :: VALID
+CMMAC: null 2017-06-06 12:08:58.581-04  threadId:232 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: null 2017-06-06 12:08:58.586-04  threadId:232  end********************
+CMMAC: F8A097EF5B09 2017-06-06 12:08:58.600-04  threadId:216 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 12:08:58.600-04  threadId:216 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 12:08:58.600-04  threadId:216 Assertion :snr :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 12:08:58.600-04  threadId:216 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 12:08:58.603-04  threadId:216  end********************
+CMMAC: F8A097EAA4BA 2017-06-06 12:09:06.530-04  threadId:201 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 12:09:06.530-04  threadId:201 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 12:09:06.530-04  threadId:201 Assertion :snr :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 12:09:06.530-04  threadId:201 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 12:09:06.535-04  threadId:201  end********************
+CMMAC: F8A097EF5929 2017-06-06 12:58:31.186-04  threadId:85  begin********************
+CMMAC: F8A097EAA488 2017-06-06 12:58:31.186-04  threadId:77  begin********************
+CMMAC: F8A097EAA488 2017-06-06 12:58:31.267-04  threadId:77 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5929 2017-06-06 12:58:31.267-04  threadId:85 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA488 2017-06-06 12:58:31.267-04  threadId:77 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5929 2017-06-06 12:58:31.267-04  threadId:85 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA488 2017-06-06 12:58:31.267-04  threadId:77 Assertion :snr :: VALID
+CMMAC: F8A097EF5929 2017-06-06 12:58:31.267-04  threadId:85 Assertion :snr :: VALID
+CMMAC: F8A097EF5929 2017-06-06 12:58:31.267-04  threadId:85 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-06 12:58:31.267-04  threadId:77 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-06 12:58:31.290-04  threadId:77  end********************
+CMMAC: F8A097EF5929 2017-06-06 12:58:31.290-04  threadId:85  end********************
+CMMAC: F8A097EAA663 2017-06-06 12:58:31.292-04  threadId:85  begin********************
+CMMAC: F8A097EF5B40 2017-06-06 12:58:31.292-04  threadId:77  begin********************
+CMMAC: F8A097EF5B40 2017-06-06 12:58:37.238-04  threadId:77 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 12:58:37.238-04  threadId:77 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 12:58:37.238-04  threadId:77 Assertion :snr :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 12:58:37.238-04  threadId:77 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 12:58:37.240-04  threadId:77  end********************
+CMMAC: F8A097EF5852 2017-06-06 12:58:37.240-04  threadId:77  begin********************
+CMMAC: F8A097EAA663 2017-06-06 12:58:38.238-04  threadId:85 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA663 2017-06-06 12:58:38.238-04  threadId:85 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA663 2017-06-06 12:58:38.238-04  threadId:85 Assertion :snr :: VALID
+CMMAC: F8A097EAA663 2017-06-06 12:58:38.238-04  threadId:85 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA663 2017-06-06 12:58:38.240-04  threadId:85  end********************
+CMMAC: F8A097EAA4BA 2017-06-06 12:58:38.241-04  threadId:85  begin********************
+CMMAC: F8A097EF5852 2017-06-06 12:58:43.241-04  threadId:77 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5852 2017-06-06 12:58:43.241-04  threadId:77 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5852 2017-06-06 12:58:43.241-04  threadId:77 Assertion :snr :: VALID
+CMMAC: F8A097EF5852 2017-06-06 12:58:43.241-04  threadId:77 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5852 2017-06-06 12:58:43.244-04  threadId:77  end********************
+CMMAC: F8A097EAA4BA 2017-06-06 12:58:49.241-04  threadId:85 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 12:58:49.241-04  threadId:85 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 12:58:49.241-04  threadId:85 Assertion :snr :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 12:58:49.241-04  threadId:85 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 12:58:49.245-04  threadId:85  end********************
+CMMAC: F8A097EAA488 2017-06-06 13:00:36.221-04  threadId:330  begin********************
+CMMAC: F8A097EAA488 2017-06-06 13:00:36.260-04  threadId:330 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA488 2017-06-06 13:00:36.260-04  threadId:330 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA488 2017-06-06 13:00:36.260-04  threadId:330 Assertion :snr :: VALID
+CMMAC: F8A097EAA488 2017-06-06 13:00:36.260-04  threadId:330 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-06 13:00:36.262-04  threadId:330  end********************
+CMMAC: F8A097EF5929 2017-06-06 13:00:36.264-04  threadId:330  begin********************
+CMMAC: F8A097EF5B40 2017-06-06 13:00:37.317-04  threadId:90  begin********************
+CMMAC: F8A097EF5B40 2017-06-06 13:00:37.357-04  threadId:90 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 13:00:37.357-04  threadId:90 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 13:00:37.357-04  threadId:90 Assertion :snr :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 13:00:37.357-04  threadId:90 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 13:00:37.360-04  threadId:90  end********************
+CMMAC: F8A097EAA663 2017-06-06 13:00:37.361-04  threadId:90  begin********************
+CMMAC: F8A097EF5852 2017-06-06 13:00:38.402-04  threadId:325  begin********************
+CMMAC: F8A097EF5852 2017-06-06 13:00:38.441-04  threadId:325 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5852 2017-06-06 13:00:38.441-04  threadId:325 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5852 2017-06-06 13:00:38.441-04  threadId:325 Assertion :snr :: VALID
+CMMAC: F8A097EF5852 2017-06-06 13:00:38.441-04  threadId:325 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5852 2017-06-06 13:00:38.444-04  threadId:325  end********************
+CMMAC: F8A097EAA4BA 2017-06-06 13:00:38.445-04  threadId:325  begin********************
+CMMAC: F8A097EAA59B 2017-06-06 13:00:39.488-04  threadId:113  begin********************
+CMMAC: F8A097EAA59B 2017-06-06 13:00:39.525-04  threadId:113 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 13:00:39.525-04  threadId:113 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 13:00:39.525-04  threadId:113 Assertion :snr :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 13:00:39.525-04  threadId:113 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 13:00:39.528-04  threadId:113  end********************
+CMMAC: F8A097EF5965 2017-06-06 13:00:39.530-04  threadId:113  begin********************
+CMMAC: F8A097EF5884 2017-06-06 13:00:40.582-04  threadId:129  begin********************
+CMMAC: F8A097EF5884 2017-06-06 13:00:40.621-04  threadId:129 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5884 2017-06-06 13:00:40.621-04  threadId:129 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5884 2017-06-06 13:00:40.621-04  threadId:129 Assertion :snr :: VALID
+CMMAC: F8A097EF5884 2017-06-06 13:00:40.621-04  threadId:129 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5884 2017-06-06 13:00:40.624-04  threadId:129  end********************
+CMMAC: F8A097EF5B09 2017-06-06 13:00:40.626-04  threadId:129  begin********************
+CMMAC: F8A097EAA488 2017-06-06 13:00:41.676-04  threadId:130  begin********************
+CMMAC: F8A097EAA488 2017-06-06 13:00:41.734-04  threadId:130 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA488 2017-06-06 13:00:41.734-04  threadId:130 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA488 2017-06-06 13:00:41.734-04  threadId:130 Assertion :snr :: VALID
+CMMAC: F8A097EAA488 2017-06-06 13:00:41.734-04  threadId:130 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-06 13:00:41.738-04  threadId:130  end********************
+CMMAC: F8A097EF5B40 2017-06-06 13:00:41.740-04  threadId:130  begin********************
+CMMAC: F8A097EF5852 2017-06-06 13:00:42.773-04  threadId:140  begin********************
+CMMAC: F8A097EF5852 2017-06-06 13:00:42.815-04  threadId:140 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5852 2017-06-06 13:00:42.815-04  threadId:140 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5852 2017-06-06 13:00:42.815-04  threadId:140 Assertion :snr :: VALID
+CMMAC: F8A097EF5852 2017-06-06 13:00:42.815-04  threadId:140 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5852 2017-06-06 13:00:42.818-04  threadId:140  end********************
+CMMAC: F8A097EAA59B 2017-06-06 13:00:42.819-04  threadId:140  begin********************
+CMMAC: F8A097EF5929 2017-06-06 13:00:43.263-04  threadId:330 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5929 2017-06-06 13:00:43.263-04  threadId:330 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5929 2017-06-06 13:00:43.263-04  threadId:330 Assertion :snr :: VALID
+CMMAC: F8A097EF5929 2017-06-06 13:00:43.263-04  threadId:330 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5929 2017-06-06 13:00:43.265-04  threadId:330  end********************
+CMMAC: F8A097EF5884 2017-06-06 13:00:43.266-04  threadId:330  begin********************
+CMMAC: F8A097EAA488 2017-06-06 13:00:43.863-04  threadId:145  begin********************
+CMMAC: F8A097EAA488 2017-06-06 13:00:43.906-04  threadId:145 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA488 2017-06-06 13:00:43.906-04  threadId:145 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA488 2017-06-06 13:00:43.906-04  threadId:145 Assertion :snr :: VALID
+CMMAC: F8A097EAA488 2017-06-06 13:00:43.906-04  threadId:145 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-06 13:00:43.908-04  threadId:145  end********************
+CMMAC: F8A097EF5852 2017-06-06 13:00:43.910-04  threadId:145  begin********************
+CMMAC: F8A097EF5929 2017-06-06 13:00:44.951-04  threadId:151  begin********************
+CMMAC: F8A097EF5929 2017-06-06 13:00:44.991-04  threadId:151 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5929 2017-06-06 13:00:44.991-04  threadId:151 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5929 2017-06-06 13:00:44.991-04  threadId:151 Assertion :snr :: VALID
+CMMAC: F8A097EF5929 2017-06-06 13:00:44.991-04  threadId:151 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5929 2017-06-06 13:00:44.994-04  threadId:151  end********************
+CMMAC: F8A097EAA488 2017-06-06 13:00:44.995-04  threadId:151  begin********************
+CMMAC: F8A097EF5929 2017-06-06 13:00:46.050-04  threadId:152  begin********************
+CMMAC: F8A097EF5929 2017-06-06 13:00:46.089-04  threadId:152 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5929 2017-06-06 13:00:46.089-04  threadId:152 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5929 2017-06-06 13:00:46.089-04  threadId:152 Assertion :snr :: VALID
+CMMAC: F8A097EF5929 2017-06-06 13:00:46.089-04  threadId:152 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5929 2017-06-06 13:00:46.092-04  threadId:152  end********************
+CMMAC: F8A097EF5929 2017-06-06 13:00:46.094-04  threadId:152  begin********************
+CMMAC: F8A097EAA663 2017-06-06 13:00:46.356-04  threadId:90 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA663 2017-06-06 13:00:46.356-04  threadId:90 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA663 2017-06-06 13:00:46.356-04  threadId:90 Assertion :snr :: VALID
+CMMAC: F8A097EAA663 2017-06-06 13:00:46.356-04  threadId:90 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA663 2017-06-06 13:00:46.359-04  threadId:90  end********************
+CMMAC: F8A097EF5B40 2017-06-06 13:00:48.724-04  threadId:130 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 13:00:48.724-04  threadId:130 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 13:00:48.724-04  threadId:130 Assertion :snr :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 13:00:48.724-04  threadId:130 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5B40 2017-06-06 13:00:48.727-04  threadId:130  end********************
+CMMAC: F8A097EF5852 2017-06-06 13:00:48.885-04  threadId:145 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5852 2017-06-06 13:00:48.885-04  threadId:145 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5852 2017-06-06 13:00:48.885-04  threadId:145 Assertion :snr :: VALID
+CMMAC: F8A097EF5852 2017-06-06 13:00:48.885-04  threadId:145 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5852 2017-06-06 13:00:48.888-04  threadId:145  end********************
+CMMAC: F8A097EF5965 2017-06-06 13:00:49.530-04  threadId:113 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5965 2017-06-06 13:00:49.530-04  threadId:113 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5965 2017-06-06 13:00:49.530-04  threadId:113 Assertion :snr :: VALID
+CMMAC: F8A097EF5965 2017-06-06 13:00:49.530-04  threadId:113 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5965 2017-06-06 13:00:49.534-04  threadId:113  end********************
+CMMAC: F8A097EF5929 2017-06-06 13:00:51.073-04  threadId:152 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5929 2017-06-06 13:00:51.073-04  threadId:152 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5929 2017-06-06 13:00:51.073-04  threadId:152 Assertion :snr :: VALID
+CMMAC: F8A097EF5929 2017-06-06 13:00:51.073-04  threadId:152 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5929 2017-06-06 13:00:51.076-04  threadId:152  end********************
+CMMAC: F8A097EAA4BA 2017-06-06 13:00:54.441-04  threadId:325 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 13:00:54.441-04  threadId:325 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 13:00:54.441-04  threadId:325 Assertion :snr :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 13:00:54.441-04  threadId:325 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA4BA 2017-06-06 13:00:54.446-04  threadId:325  end********************
+CMMAC: F8A097EF5B09 2017-06-06 13:00:56.604-04  threadId:129 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 13:00:56.604-04  threadId:129 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 13:00:56.604-04  threadId:129 Assertion :snr :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 13:00:56.604-04  threadId:129 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5B09 2017-06-06 13:00:56.608-04  threadId:129  end********************
+CMMAC: F8A097EAA59B 2017-06-06 13:00:59.808-04  threadId:140 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 13:00:59.808-04  threadId:140 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 13:00:59.808-04  threadId:140 Assertion :snr :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 13:00:59.808-04  threadId:140 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA59B 2017-06-06 13:00:59.812-04  threadId:140  end********************
+CMMAC: F8A097EAA488 2017-06-06 13:00:59.987-04  threadId:151 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA488 2017-06-06 13:00:59.987-04  threadId:151 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA488 2017-06-06 13:00:59.987-04  threadId:151 Assertion :snr :: VALID
+CMMAC: F8A097EAA488 2017-06-06 13:00:59.987-04  threadId:151 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-06 13:00:59.992-04  threadId:151  end********************
+CMMAC: F8A097EF5884 2017-06-06 13:01:01.260-04  threadId:330 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5884 2017-06-06 13:01:01.260-04  threadId:330 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5884 2017-06-06 13:01:01.260-04  threadId:330 Assertion :snr :: VALID
+CMMAC: F8A097EF5884 2017-06-06 13:01:01.260-04  threadId:330 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5884 2017-06-06 13:01:01.263-04  threadId:330  end********************
+CMMAC: F8A097EAA488 2017-06-07 12:01:09.333-04  threadId:189  begin********************
+CMMAC: F8A097EAA488 2017-06-07 12:01:09.901-04  threadId:189 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA488 2017-06-07 12:01:09.901-04  threadId:189 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA488 2017-06-07 12:01:09.901-04  threadId:189 Assertion :snr :: VALID
+CMMAC: F8A097EAA488 2017-06-07 12:01:09.901-04  threadId:189 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-07 12:01:09.951-04  threadId:189  end********************
+CMMAC: F8A097EF5929 2017-06-07 12:01:09.965-04  threadId:189  begin********************
+CMMAC: F8A097EF5B40 2017-06-07 12:01:10.358-04  threadId:193  begin********************
+CMMAC: F8A097EF5B40 2017-06-07 12:01:10.545-04  threadId:193 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5B40 2017-06-07 12:01:10.545-04  threadId:193 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B40 2017-06-07 12:01:10.545-04  threadId:193 Assertion :snr :: VALID
+CMMAC: F8A097EF5B40 2017-06-07 12:01:10.545-04  threadId:193 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5B40 2017-06-07 12:01:10.548-04  threadId:193  end********************
+CMMAC: F8A097EAA663 2017-06-07 12:01:10.564-04  threadId:193  begin********************
+CMMAC: F8A097EF5852 2017-06-07 12:01:11.449-04  threadId:196  begin********************
+CMMAC: F8A097EF5852 2017-06-07 12:01:11.567-04  threadId:196 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5852 2017-06-07 12:01:11.567-04  threadId:196 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5852 2017-06-07 12:01:11.567-04  threadId:196 Assertion :snr :: VALID
+CMMAC: F8A097EF5852 2017-06-07 12:01:11.567-04  threadId:196 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5852 2017-06-07 12:01:11.570-04  threadId:196  end********************
+CMMAC: F8A097EAA4BA 2017-06-07 12:01:11.586-04  threadId:196  begin********************
+CMMAC: F8A097EAA59B 2017-06-07 12:01:12.539-04  threadId:199  begin********************
+CMMAC: F8A097EAA59B 2017-06-07 12:01:12.624-04  threadId:199 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA59B 2017-06-07 12:01:12.624-04  threadId:199 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA59B 2017-06-07 12:01:12.624-04  threadId:199 Assertion :snr :: VALID
+CMMAC: F8A097EAA59B 2017-06-07 12:01:12.624-04  threadId:199 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA59B 2017-06-07 12:01:12.627-04  threadId:199  end********************
+CMMAC: F8A097EF5965 2017-06-07 12:01:12.637-04  threadId:199  begin********************
+CMMAC: F8A097EF5884 2017-06-07 12:01:13.620-04  threadId:203  begin********************
+CMMAC: F8A097EF5884 2017-06-07 12:01:13.718-04  threadId:203 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5884 2017-06-07 12:01:13.718-04  threadId:203 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5884 2017-06-07 12:01:13.718-04  threadId:203 Assertion :snr :: VALID
+CMMAC: F8A097EF5884 2017-06-07 12:01:13.718-04  threadId:203 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5884 2017-06-07 12:01:13.721-04  threadId:203  end********************
+CMMAC: F8A097EF5B09 2017-06-07 12:01:13.734-04  threadId:203  begin********************
+CMMAC: F8A097EAA488 2017-06-07 12:01:14.703-04  threadId:207  begin********************
+CMMAC: F8A097EAA488 2017-06-07 12:01:14.791-04  threadId:207 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA488 2017-06-07 12:01:14.791-04  threadId:207 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA488 2017-06-07 12:01:14.791-04  threadId:207 Assertion :snr :: VALID
+CMMAC: F8A097EAA488 2017-06-07 12:01:14.791-04  threadId:207 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-07 12:01:14.796-04  threadId:207  end********************
+CMMAC: F8A097EF5B40 2017-06-07 12:01:14.807-04  threadId:207  begin********************
+CMMAC: F8A097EF5852 2017-06-07 12:01:15.789-04  threadId:211  begin********************
+CMMAC: F8A097EF5852 2017-06-07 12:01:15.880-04  threadId:211 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5852 2017-06-07 12:01:15.880-04  threadId:211 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5852 2017-06-07 12:01:15.880-04  threadId:211 Assertion :snr :: VALID
+CMMAC: F8A097EF5852 2017-06-07 12:01:15.880-04  threadId:211 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5852 2017-06-07 12:01:15.884-04  threadId:211  end********************
+CMMAC: F8A097EAA59B 2017-06-07 12:01:15.901-04  threadId:211  begin********************
+CMMAC: F8A097EF5884 2017-06-07 12:01:16.866-04  threadId:214  begin********************
+CMMAC: F8A097EF5884 2017-06-07 12:01:16.935-04  threadId:214 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5884 2017-06-07 12:01:16.935-04  threadId:214 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5884 2017-06-07 12:01:16.935-04  threadId:214 Assertion :snr :: VALID
+CMMAC: F8A097EF5884 2017-06-07 12:01:16.935-04  threadId:214 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5884 2017-06-07 12:01:16.937-04  threadId:214  end********************
+CMMAC: F8A097EAA488 2017-06-07 12:01:16.948-04  threadId:214  begin********************
+CMMAC: F8A097EF5852 2017-06-07 12:01:17.957-04  threadId:218  begin********************
+CMMAC: F8A097EF5852 2017-06-07 12:01:18.026-04  threadId:218 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5852 2017-06-07 12:01:18.026-04  threadId:218 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5852 2017-06-07 12:01:18.026-04  threadId:218 Assertion :snr :: VALID
+CMMAC: F8A097EF5852 2017-06-07 12:01:18.026-04  threadId:218 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5852 2017-06-07 12:01:18.029-04  threadId:218  end********************
+CMMAC: F8A097EF5884 2017-06-07 12:01:18.043-04  threadId:218  begin********************
+CMMAC: F8A097EAA663 2017-06-07 12:01:18.444-04  threadId:193 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA663 2017-06-07 12:01:18.444-04  threadId:193 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA663 2017-06-07 12:01:18.444-04  threadId:193 Assertion :snr :: VALID
+CMMAC: F8A097EAA663 2017-06-07 12:01:18.444-04  threadId:193 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA663 2017-06-07 12:01:18.447-04  threadId:193  end********************
+CMMAC: F8A097EF5852 2017-06-07 12:01:18.447-04  threadId:193  begin********************
+CMMAC: F8A097EAA663 2017-06-07 12:01:19.042-04  threadId:222  begin********************
+CMMAC: F8A097EAA663 2017-06-07 12:01:19.100-04  threadId:222 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA663 2017-06-07 12:01:19.100-04  threadId:222 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA663 2017-06-07 12:01:19.100-04  threadId:222 Assertion :snr :: VALID
+CMMAC: F8A097EAA663 2017-06-07 12:01:19.100-04  threadId:222 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA663 2017-06-07 12:01:19.102-04  threadId:222  end********************
+CMMAC: F8A097EAA663 2017-06-07 12:01:19.111-04  threadId:222  begin********************
+CMMAC: F8A097EF5965 2017-06-07 12:01:21.603-04  threadId:199 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5965 2017-06-07 12:01:21.603-04  threadId:199 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5965 2017-06-07 12:01:21.603-04  threadId:199 Assertion :snr :: VALID
+CMMAC: F8A097EF5965 2017-06-07 12:01:21.603-04  threadId:199 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5965 2017-06-07 12:01:21.604-04  threadId:199  end********************
+CMMAC: F8A097EAA488 2017-06-07 12:01:23.938-04  threadId:214 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA488 2017-06-07 12:01:23.938-04  threadId:214 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA488 2017-06-07 12:01:23.938-04  threadId:214 Assertion :snr :: VALID
+CMMAC: F8A097EAA488 2017-06-07 12:01:23.938-04  threadId:214 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA488 2017-06-07 12:01:23.942-04  threadId:214  end********************
+CMMAC: F8A097EF5929 2017-06-07 12:01:26.582-04  threadId:189 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5929 2017-06-07 12:01:26.582-04  threadId:189 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5929 2017-06-07 12:01:26.582-04  threadId:189 Assertion :snr :: VALID
+CMMAC: F8A097EF5929 2017-06-07 12:01:26.582-04  threadId:189 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5929 2017-06-07 12:01:26.584-04  threadId:189  end********************
+CMMAC: F8A097EF5B09 2017-06-07 12:01:26.682-04  threadId:203 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5B09 2017-06-07 12:01:26.682-04  threadId:203 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B09 2017-06-07 12:01:26.682-04  threadId:203 Assertion :snr :: VALID
+CMMAC: F8A097EF5B09 2017-06-07 12:01:26.682-04  threadId:203 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5B09 2017-06-07 12:01:26.684-04  threadId:203  end********************
+CMMAC: F8A097EF5B40 2017-06-07 12:01:27.781-04  threadId:207 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5B40 2017-06-07 12:01:27.781-04  threadId:207 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5B40 2017-06-07 12:01:27.781-04  threadId:207 Assertion :snr :: VALID
+CMMAC: F8A097EF5B40 2017-06-07 12:01:27.781-04  threadId:207 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5B40 2017-06-07 12:01:27.783-04  threadId:207  end********************
+CMMAC: F8A097EAA59B 2017-06-07 12:01:27.837-04  threadId:211 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA59B 2017-06-07 12:01:27.837-04  threadId:211 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA59B 2017-06-07 12:01:27.837-04  threadId:211 Assertion :snr :: VALID
+CMMAC: F8A097EAA59B 2017-06-07 12:01:27.837-04  threadId:211 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA59B 2017-06-07 12:01:27.839-04  threadId:211  end********************
+CMMAC: F8A097EF5884 2017-06-07 12:01:28.018-04  threadId:218 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5884 2017-06-07 12:01:28.018-04  threadId:218 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5884 2017-06-07 12:01:28.018-04  threadId:218 Assertion :snr :: VALID
+CMMAC: F8A097EF5884 2017-06-07 12:01:28.018-04  threadId:218 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5884 2017-06-07 12:01:28.020-04  threadId:218  end********************
+CMMAC: F8A097EAA663 2017-06-07 12:01:29.104-04  threadId:222 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA663 2017-06-07 12:01:29.104-04  threadId:222 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA663 2017-06-07 12:01:29.104-04  threadId:222 Assertion :snr :: VALID
+CMMAC: F8A097EAA663 2017-06-07 12:01:29.104-04  threadId:222 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA663 2017-06-07 12:01:29.106-04  threadId:222  end********************
+CMMAC: F8A097EAA4BA 2017-06-07 12:01:30.514-04  threadId:196 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EAA4BA 2017-06-07 12:01:30.514-04  threadId:196 Assertion :rx_power :: VALID
+CMMAC: F8A097EAA4BA 2017-06-07 12:01:30.514-04  threadId:196 Assertion :snr :: VALID
+CMMAC: F8A097EAA4BA 2017-06-07 12:01:30.514-04  threadId:196 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EAA4BA 2017-06-07 12:01:30.516-04  threadId:196  end********************
+CMMAC: F8A097EF5852 2017-06-07 12:01:36.445-04  threadId:193 Assertion :Valid HTTP Status Codes :: VALID
+CMMAC: F8A097EF5852 2017-06-07 12:01:36.445-04  threadId:193 Assertion :rx_power :: VALID
+CMMAC: F8A097EF5852 2017-06-07 12:01:36.445-04  threadId:193 Assertion :snr :: VALID
+CMMAC: F8A097EF5852 2017-06-07 12:01:36.445-04  threadId:193 Assertion :upstreamChannelsSize>=3 :: VALID
+CMMAC: F8A097EF5852 2017-06-07 12:01:36.448-04  threadId:193  end********************
+CMMAC: F8A097EAA488 2017-06-07 13:11:52.911-04  threadId:83  begin********************
+CMMAC: F8A097EF5929 2017-06-07 13:11:53.995-04  threadId:87  begin********************
+CMMAC: F8A097EF5B40 2017-06-07 13:11:55.131-04  threadId:89  begin********************
+CMMAC: F8A097EAA663 2017-06-07 13:11:56.234-04  threadId:91  begin********************
+CMMAC: F8A097EAA488 2017-06-07 13:11:57.124-04  threadId:83 Assertion :Valid HTTP Status Codes :: UNKNOWN
+CMMAC: F8A097EAA488 2017-06-07 13:11:57.124-04  threadId:83 Assertion :rx_power :: UNKNOWN
+CMMAC: F8A097EAA488 2017-06-07 13:11:57.124-04  threadId:83 Assertion :snr :: UNKNOWN
+CMMAC: F8A097EAA488 2017-06-07 13:11:57.124-04  threadId:83 Assertion :upstreamChannelsSize>=3 :: UNKNOWN
+CMMAC: F8A097EAA488 2017-06-07 13:11:57.175-04  threadId:83  end********************
+CMMAC: F8A097EF5852 2017-06-07 13:11:57.195-04  threadId:83  begin********************
+CMMAC: F8A097EAA4BA 2017-06-07 13:11:57.324-04  threadId:94  begin********************
+CMMAC: F8A097EF5929 2017-06-07 13:11:58.042-04  threadId:87 Assertion :Valid HTTP Status Codes :: UNKNOWN
+CMMAC: F8A097EF5929 2017-06-07 13:11:58.042-04  threadId:87 Assertion :rx_power :: UNKNOWN
+CMMAC: F8A097EF5929 2017-06-07 13:11:58.042-04  threadId:87 Assertion :snr :: UNKNOWN
+CMMAC: F8A097EF5929 2017-06-07 13:11:58.042-04  threadId:87 Assertion :upstreamChannelsSize>=3 :: UNKNOWN
+CMMAC: F8A097EF5929 2017-06-07 13:11:58.047-04  threadId:87  end********************
+CMMAC: F8A097EAA59B 2017-06-07 13:11:58.066-04  threadId:87  begin********************
+CMMAC: F8A097EF5965 2017-06-07 13:11:58.457-04  threadId:97  begin********************
+CMMAC: F8A097EF5B40 2017-06-07 13:11:59.169-04  threadId:89 Assertion :Valid HTTP Status Codes :: UNKNOWN
+CMMAC: F8A097EF5B40 2017-06-07 13:11:59.169-04  threadId:89 Assertion :rx_power :: UNKNOWN
+CMMAC: F8A097EF5B40 2017-06-07 13:11:59.169-04  threadId:89 Assertion :snr :: UNKNOWN
+CMMAC: F8A097EF5B40 2017-06-07 13:11:59.169-04  threadId:89 Assertion :upstreamChannelsSize>=3 :: UNKNOWN
+CMMAC: F8A097EF5B40 2017-06-07 13:11:59.174-04  threadId:89  end********************
+CMMAC: F8A097EF5884 2017-06-07 13:11:59.202-04  threadId:89  begin********************
+CMMAC: F8A097EF5B09 2017-06-07 13:11:59.566-04  threadId:100  begin********************
+CMMAC: F8A097EAA663 2017-06-07 13:12:00.269-04  threadId:91 Assertion :Valid HTTP Status Codes :: UNKNOWN
+CMMAC: F8A097EAA663 2017-06-07 13:12:00.269-04  threadId:91 Assertion :rx_power :: UNKNOWN
+CMMAC: F8A097EAA663 2017-06-07 13:12:00.269-04  threadId:91 Assertion :snr :: UNKNOWN
+CMMAC: F8A097EAA663 2017-06-07 13:12:00.269-04  threadId:91 Assertion :upstreamChannelsSize>=3 :: UNKNOWN
+CMMAC: F8A097EAA663 2017-06-07 13:12:00.276-04  threadId:91  end********************
+CMMAC: F8A097EAA488 2017-06-07 13:12:00.303-04  threadId:91  begin********************
+CMMAC: F8A097EF5929 2017-06-07 13:12:00.670-04  threadId:103  begin********************
+CMMAC: F8A097EF5852 2017-06-07 13:12:01.234-04  threadId:83 Assertion :Valid HTTP Status Codes :: UNKNOWN
+CMMAC: F8A097EF5852 2017-06-07 13:12:01.234-04  threadId:83 Assertion :rx_power :: UNKNOWN
+CMMAC: F8A097EF5852 2017-06-07 13:12:01.234-04  threadId:83 Assertion :snr :: UNKNOWN
+CMMAC: F8A097EF5852 2017-06-07 13:12:01.234-04  threadId:83 Assertion :upstreamChannelsSize>=3 :: UNKNOWN
+CMMAC: F8A097EF5852 2017-06-07 13:12:01.238-04  threadId:83  end********************
+CMMAC: F8A097EF5B40 2017-06-07 13:12:01.239-04  threadId:83  begin********************
+CMMAC: F8A097EAA4BA 2017-06-07 13:12:01.373-04  threadId:94 Assertion :Valid HTTP Status Codes :: UNKNOWN
+CMMAC: F8A097EAA4BA 2017-06-07 13:12:01.373-04  threadId:94 Assertion :rx_power :: UNKNOWN
+CMMAC: F8A097EAA4BA 2017-06-07 13:12:01.373-04  threadId:94 Assertion :snr :: UNKNOWN
+CMMAC: F8A097EAA4BA 2017-06-07 13:12:01.373-04  threadId:94 Assertion :upstreamChannelsSize>=3 :: UNKNOWN
+CMMAC: F8A097EAA4BA 2017-06-07 13:12:01.382-04  threadId:94  end********************
+CMMAC: F8A097EAA663 2017-06-07 13:12:01.401-04  threadId:94  begin********************
+CMMAC: F8A097EF5852 2017-06-07 13:12:01.758-04  threadId:106  begin********************
+CMMAC: F8A097EAA59B 2017-06-07 13:12:02.086-04  threadId:87 Assertion :Valid HTTP Status Codes :: UNKNOWN
+CMMAC: F8A097EAA59B 2017-06-07 13:12:02.086-04  threadId:87 Assertion :rx_power :: UNKNOWN
+CMMAC: F8A097EAA59B 2017-06-07 13:12:02.086-04  threadId:87 Assertion :snr :: UNKNOWN
+CMMAC: F8A097EAA59B 2017-06-07 13:12:02.086-04  threadId:87 Assertion :upstreamChannelsSize>=3 :: UNKNOWN
+CMMAC: F8A097EAA59B 2017-06-07 13:12:02.089-04  threadId:87  end********************
+CMMAC: F8A097EAA4BA 2017-06-07 13:12:02.090-04  threadId:87  begin********************
+CMMAC: F8A097EF5965 2017-06-07 13:12:02.530-04  threadId:97 Assertion :Valid HTTP Status Codes :: UNKNOWN
+CMMAC: F8A097EF5965 2017-06-07 13:12:02.530-04  threadId:97 Assertion :rx_power :: UNKNOWN
+CMMAC: F8A097EF5965 2017-06-07 13:12:02.530-04  threadId:97 Assertion :snr :: UNKNOWN
+CMMAC: F8A097EF5965 2017-06-07 13:12:02.530-04  threadId:97 Assertion :upstreamChannelsSize>=3 :: UNKNOWN
+CMMAC: F8A097EF5965 2017-06-07 13:12:02.535-04  threadId:97  end********************
+CMMAC: F8A097EAA59B 2017-06-07 13:12:02.561-04  threadId:97  begin********************
+CMMAC: F8A097EF5965 2017-06-07 13:12:02.875-04  threadId:108  begin********************
+CMMAC: F8A097EF5884 2017-06-07 13:12:03.223-04  threadId:89 Assertion :Valid HTTP Status Codes :: UNKNOWN
+CMMAC: F8A097EF5884 2017-06-07 13:12:03.223-04  threadId:89 Assertion :rx_power :: UNKNOWN
+CMMAC: F8A097EF5884 2017-06-07 13:12:03.223-04  threadId:89 Assertion :snr :: UNKNOWN
+CMMAC: F8A097EF5884 2017-06-07 13:12:03.223-04  threadId:89 Assertion :upstreamChannelsSize>=3 :: UNKNOWN
+CMMAC: F8A097EF5884 2017-06-07 13:12:03.227-04  threadId:89  end********************
+CMMAC: F8A097EF5B09 2017-06-07 13:12:03.649-04  threadId:100 Assertion :Valid HTTP Status Codes :: UNKNOWN
+CMMAC: F8A097EF5B09 2017-06-07 13:12:03.649-04  threadId:100 Assertion :rx_power :: UNKNOWN
+CMMAC: F8A097EF5B09 2017-06-07 13:12:03.649-04  threadId:100 Assertion :snr :: UNKNOWN
+CMMAC: F8A097EF5B09 2017-06-07 13:12:03.649-04  threadId:100 Assertion :upstreamChannelsSize>=3 :: UNKNOWN
+CMMAC: F8A097EF5B09 2017-06-07 13:12:03.655-04  threadId:100  end********************
+CMMAC: F8A097EAA488 2017-06-07 13:12:04.342-04  threadId:91 Assertion :Valid HTTP Status Codes :: UNKNOWN
+CMMAC: F8A097EAA488 2017-06-07 13:12:04.342-04  threadId:91 Assertion :rx_power :: UNKNOWN
+CMMAC: F8A097EAA488 2017-06-07 13:12:04.342-04  threadId:91 Assertion :snr :: UNKNOWN
+CMMAC: F8A097EAA488 2017-06-07 13:12:04.342-04  threadId:91 Assertion :upstreamChannelsSize>=3 :: UNKNOWN
+CMMAC: F8A097EAA488 2017-06-07 13:12:04.348-04  threadId:91  end********************
+CMMAC: F8A097EF5929 2017-06-07 13:12:04.684-04  threadId:103 Assertion :Valid HTTP Status Codes :: UNKNOWN
+CMMAC: F8A097EF5929 2017-06-07 13:12:04.684-04  threadId:103 Assertion :rx_power :: UNKNOWN
+CMMAC: F8A097EF5929 2017-06-07 13:12:04.684-04  threadId:103 Assertion :snr :: UNKNOWN
+CMMAC: F8A097EF5929 2017-06-07 13:12:04.684-04  threadId:103 Assertion :upstreamChannelsSize>=3 :: UNKNOWN
+CMMAC: F8A097EF5929 2017-06-07 13:12:04.691-04  threadId:103  end********************
+CMMAC: F8A097EF5B40 2017-06-07 13:12:05.260-04  threadId:83 Assertion :Valid HTTP Status Codes :: UNKNOWN
+CMMAC: F8A097EF5B40 2017-06-07 13:12:05.260-04  threadId:83 Assertion :rx_power :: UNKNOWN
+CMMAC: F8A097EF5B40 2017-06-07 13:12:05.260-04  threadId:83 Assertion :snr :: UNKNOWN
+CMMAC: F8A097EF5B40 2017-06-07 13:12:05.260-04  threadId:83 Assertion :upstreamChannelsSize>=3 :: UNKNOWN
+CMMAC: F8A097EF5B40 2017-06-07 13:12:05.265-04  threadId:83  end********************
+CMMAC: F8A097EAA663 2017-06-07 13:12:05.500-04  threadId:94 Assertion :Valid HTTP Status Codes :: UNKNOWN
+CMMAC: F8A097EAA663 2017-06-07 13:12:05.500-04  threadId:94 Assertion :rx_power :: UNKNOWN
+CMMAC: F8A097EAA663 2017-06-07 13:12:05.500-04  threadId:94 Assertion :snr :: UNKNOWN
+CMMAC: F8A097EAA663 2017-06-07 13:12:05.500-04  threadId:94 Assertion :upstreamChannelsSize>=3 :: UNKNOWN
+CMMAC: F8A097EAA663 2017-06-07 13:12:05.505-04  threadId:94  end********************
+CMMAC: F8A097EF5852 2017-06-07 13:12:05.771-04  threadId:106 Assertion :Valid HTTP Status Codes :: UNKNOWN
+CMMAC: F8A097EF5852 2017-06-07 13:12:05.771-04  threadId:106 Assertion :rx_power :: UNKNOWN
+CMMAC: F8A097EF5852 2017-06-07 13:12:05.771-04  threadId:106 Assertion :snr :: UNKNOWN
+CMMAC: F8A097EF5852 2017-06-07 13:12:05.771-04  threadId:106 Assertion :upstreamChannelsSize>=3 :: UNKNOWN
+CMMAC: F8A097EF5852 2017-06-07 13:12:05.778-04  threadId:106  end********************
+CMMAC: F8A097EAA4BA 2017-06-07 13:12:06.169-04  threadId:87 Assertion :Valid HTTP Status Codes :: UNKNOWN
+CMMAC: F8A097EAA4BA 2017-06-07 13:12:06.169-04  threadId:87 Assertion :rx_power :: UNKNOWN
+CMMAC: F8A097EAA4BA 2017-06-07 13:12:06.169-04  threadId:87 Assertion :snr :: UNKNOWN
+CMMAC: F8A097EAA4BA 2017-06-07 13:12:06.169-04  threadId:87 Assertion :upstreamChannelsSize>=3 :: UNKNOWN
+CMMAC: F8A097EAA4BA 2017-06-07 13:12:06.174-04  threadId:87  end********************
+CMMAC: F8A097EAA59B 2017-06-07 13:12:06.613-04  threadId:97 Assertion :Valid HTTP Status Codes :: UNKNOWN
+CMMAC: F8A097EAA59B 2017-06-07 13:12:06.613-04  threadId:97 Assertion :rx_power :: UNKNOWN
+CMMAC: F8A097EAA59B 2017-06-07 13:12:06.613-04  threadId:97 Assertion :snr :: UNKNOWN
+CMMAC: F8A097EAA59B 2017-06-07 13:12:06.613-04  threadId:97 Assertion :upstreamChannelsSize>=3 :: UNKNOWN
+CMMAC: F8A097EAA59B 2017-06-07 13:12:06.618-04  threadId:97  end********************
+CMMAC: F8A097EF5965 2017-06-07 13:12:06.910-04  threadId:108 Assertion :Valid HTTP Status Codes :: UNKNOWN
+CMMAC: F8A097EF5965 2017-06-07 13:12:06.910-04  threadId:108 Assertion :rx_power :: UNKNOWN
+CMMAC: F8A097EF5965 2017-06-07 13:12:06.910-04  threadId:108 Assertion :snr :: UNKNOWN
+CMMAC: F8A097EF5965 2017-06-07 13:12:06.910-04  threadId:108 Assertion :upstreamChannelsSize>=3 :: UNKNOWN
+CMMAC: F8A097EF5965 2017-06-07 13:12:06.918-04  threadId:108  end********************
